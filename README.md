@@ -1,5 +1,8 @@
 # CustomerDatabase-CSharp-SQL
 
+Summary:
+Project to get accustomed to Microsoft SQL Server. Creates a database of customer order information, customer information, and item information. Through the console, the user can show a listing of all the customer orders, customers, and items in the database. The user can also add new entries, edit existing entries, or delete existing entries.
+
 Requirements:
 - Microsoft Visual Studio
 - Microsoft SQL Server Management Studio
