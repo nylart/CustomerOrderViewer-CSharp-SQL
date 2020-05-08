@@ -1,0 +1,11 @@
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\bin\Debug\netcoreapp2.2\CustomerOrderViewerV2.deps.json
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\bin\Debug\netcoreapp2.2\CustomerOrderViewerV2.runtimeconfig.json
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\bin\Debug\netcoreapp2.2\CustomerOrderViewerV2.runtimeconfig.dev.json
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\bin\Debug\netcoreapp2.2\CustomerOrderViewerV2.dll
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.csprojAssemblyReference.cache
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.csproj.CoreCompileInputs.cache
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.AssemblyInfoInputs.cache
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.AssemblyInfo.cs
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\bin\Debug\netcoreapp2.2\CustomerOrderViewerV2.pdb
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.dll
+F:\Git\CustomerOrderViewer-CSharp-SQL\CustomerOrderViewerV2\obj\Debug\netcoreapp2.2\CustomerOrderViewerV2.pdb

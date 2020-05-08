@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Git\\CustomerOrderViewer-CSharp-SQL\\CustomerOrderViewerV2\\CustomerOrderViewerV2.csproj": {}
+  },
+  "projects": {
+    "F:\\Git\\CustomerOrderViewer-CSharp-SQL\\CustomerOrderViewerV2\\CustomerOrderViewerV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Git\\CustomerOrderViewer-CSharp-SQL\\CustomerOrderViewerV2\\CustomerOrderViewerV2.csproj",
+        "projectName": "CustomerOrderViewerV2",
+        "projectPath": "F:\\Git\\CustomerOrderViewer-CSharp-SQL\\CustomerOrderViewerV2\\CustomerOrderViewerV2.csproj",
+        "packagesPath": "C:\\Users\\Jielun\\.nuget\\packages\\",
+        "outputPath": "F:\\Git\\CustomerOrderViewer-CSharp-SQL\\CustomerOrderViewerV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jielun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
