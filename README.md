@@ -18,7 +18,11 @@ Instructions:
 5. Open the "CustomerOrderViewerV2.sln" solution file. 
 6. Click View > Server Explorer, then right-click "Data Connections".
 7. Click "Add Connection".
+
 7a. Set the Server name as "localhost". 
+
 7b. Under "Connect to a database", select the "CustomerOrderViewer" database.
+
 7c. Click "Ok"
+
 8. Execute the program.
